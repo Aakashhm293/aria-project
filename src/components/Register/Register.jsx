@@ -6,7 +6,7 @@ const Register = () => {
     <>
       <div>
         <div>
-          <form action="/Login/Login.html">
+          <form action="/login" role="Main">
             <div className="container">
               <div>
                 <h1>Register</h1>

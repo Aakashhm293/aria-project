@@ -38,9 +38,7 @@ const Dashboard = () => {
             <table>
               <thead>
                 <tr>
-                  <th colspan="6" style="text-align: center">
-                    Student Information
-                  </th>
+                  <th colspan="6">Student Information</th>
                 </tr>
               </thead>
               <tr>
