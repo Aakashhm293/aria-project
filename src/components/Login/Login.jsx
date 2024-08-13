@@ -7,7 +7,7 @@ const Login = () => {
       <div>
         <h1 id="welcome">Welcome</h1>
       </div>
-      <form action="/Dashboard/Home.html" id="form-body">
+      <form action="/dashboard" id="form-body">
         <div>
           <p class="paratext">Enter Email Here</p>
           <input type="email" class="input-fields" />
