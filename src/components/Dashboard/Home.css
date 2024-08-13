@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.navbar-container {
+  position: relative;
+}
+
+.navBar {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.navBar li {
+  margin: 0;
+}
+
+.navBar a {
+  text-decoration: none;
+  color: #000;
+  padding: 15px;
+  display: block;
+}
+
+.section_1 {
+  display: inline;
+}
+
+select {
+  float: right;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+thead {
+  text-align: center;
+}

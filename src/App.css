@@ -1,0 +1,25 @@
+#navBar {
+  display: flex;
+  position: relative;
+  left: 10px;
+}
+
+#home {
+  position: relative;
+  left: 30px;
+}
+
+#about {
+  position: relative;
+  left: 60px;
+}
+
+#login {
+  position: absolute;
+  right: 100px;
+}
+
+#signup {
+  position: absolute;
+  right: 30px;
+}
