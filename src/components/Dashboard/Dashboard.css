@@ -33,6 +33,10 @@ select {
   float: right;
 }
 
+.dropdown_button {
+  float: right;
+}
+
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
